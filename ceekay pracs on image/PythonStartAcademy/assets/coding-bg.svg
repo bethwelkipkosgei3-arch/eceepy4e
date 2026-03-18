@@ -1,0 +1,10 @@
+<svg width="800" height="400" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="400" fill="#232f3e"/>
+<g opacity="0.2">
+<text x="40" y="80" font-family="Fira Code, monospace" font-size="32" fill="#00bcd4">def hello_world():</text>
+<text x="60" y="120" font-family="Fira Code, monospace" font-size="28" fill="#e3eaf2">    print('Hello, World!')</text>
+<text x="40" y="200" font-family="Fira Code, monospace" font-size="32" fill="#1976d2">for i in range(5):</text>
+<text x="60" y="240" font-family="Fira Code, monospace" font-size="28" fill="#e3eaf2">    print(i)</text>
+<text x="40" y="320" font-family="Fira Code, monospace" font-size="32" fill="#00bcd4"># Learn Python at PythonStart Academy</text>
+</g>
+</svg>
